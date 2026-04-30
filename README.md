@@ -10,3 +10,4 @@ This is my journey into tech, automation, and security.
 
 ## Week 1 Progress
 - Created my first repository
+- Started learning GitHub 💪
